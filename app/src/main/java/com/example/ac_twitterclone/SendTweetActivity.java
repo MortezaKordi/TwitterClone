@@ -45,6 +45,14 @@ public class SendTweetActivity extends AppCompatActivity implements View.OnClick
           btnViewTweets.setOnClickListener(this);
 
 
+         // HashMap<String, Integer> numbers = new HashMap<>();
+         // numbers.put("Number1", 1);
+        //  numbers.put("Number2", 2);
+
+
+
+        //  FancyToast.makeText(this,  numbers.get("Number1") + "", Toast.LENGTH_LONG, FancyToast.WARNING, true).show();
+
     }
 
     public void sendTweet(View view) {
